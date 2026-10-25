@@ -1,0 +1,39 @@
+{
+  "timestamp": "2026-10-25T16:01:48.060Z",
+  "url": "https://weatherboard-dahim.sunlitotter64.chatgpt.site",
+  "liveApi": true,
+  "apiResponses": [
+    {
+      "host": "api.openweathermap.org",
+      "path": "/data/2.5/weather",
+      "status": 200
+    },
+    {
+      "host": "api.openweathermap.org",
+      "path": "/data/2.5/forecast",
+      "status": 200
+    },
+    {
+      "host": "geodb-free-service.wirefreethought.com",
+      "path": "/v1/geo/cities",
+      "status": 200
+    },
+    {
+      "host": "api.openweathermap.org",
+      "path": "/data/2.5/weather",
+      "status": 200
+    },
+    {
+      "host": "api.openweathermap.org",
+      "path": "/data/2.5/forecast",
+      "status": 200
+    }
+  ],
+  "initialTemperature": "12°C",
+  "autocompleteLatencyMs": 1386,
+  "selectedCity": "Paris",
+  "offlineReload": "passed",
+  "mobileOverflow": false,
+  "undersizedTargets": [],
+  "pageErrors": []
+}

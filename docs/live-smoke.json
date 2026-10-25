@@ -1,0 +1,12 @@
+{
+  "timestamp": "2026-10-25T15:50:34.141Z",
+  "url": "http://127.0.0.1:4174",
+  "liveApi": true,
+  "initialTemperature": "12°C",
+  "autocompleteLatencyMs": 1386,
+  "selectedCity": "Paris",
+  "offlineReload": "passed",
+  "mobileOverflow": false,
+  "undersizedTargets": [],
+  "pageErrors": []
+}
